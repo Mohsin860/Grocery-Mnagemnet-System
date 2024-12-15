@@ -1,0 +1,43 @@
+Food
+oPerishable_Goods
+*Meat
+Chicken 50
+Beef Price:0
+Mutton Price:0
+Fish Price:0
+*Dairy
+Milk Price:0
+Eggs Price:0
+Yogurt Price:0
+Cheese Price:0
+oFruit
+Apple Price:0
+Banana Price:0
+Mango Price:0
+Orange Price:0
+Watermelon Price:0
+oVegetable
+Tomato Price:0
+Onion Price:0
+Cucumber Price:0
+Potatoes Price:0
+oNonPerishable_GoodsPrice: 
+*Snacks
+Chocolates Price:0
+Chips Price:0
+Biscuits Price:0
+*Spices
+Grains Price:0
+Lentils Price:0
+Wheat Price:0
+Flour Price:0
+Rice Price:0
+Cereal Price:0
+oPersonal_Hygiene
+Shampoo Price:0
+Soap Price:0
+Hand_Sanitizer Price:0
+oHousehold_Cleaning
+Detergent Price:0
+Dish_Soap Price:0
+Washroom_Cleaner Price:0

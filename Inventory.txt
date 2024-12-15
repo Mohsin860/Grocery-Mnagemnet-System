@@ -1,0 +1,43 @@
+Item:Price:Quantity
+Food
+oPerishable_Goods
+*Meat
+Chicken 78 99
+Mutton 60 45
+Fish 50 60
+*Dairy
+Milk 50 30
+Eggs 20 12
+Yogurt 33 23
+Cheese 33 40
+oFruit
+Apple 200 10
+Banana 150 33
+Mango 0 0
+Orange 100 40
+Watermelon 0 0
+oVegetable
+Tomato 25 40
+Onion 22 12
+Cucumber 12 33
+Potatoes 22 34
+oNonPerishable_Goods  
+*Snacks
+Chocolates 0 0
+Chips 0 0
+Biscuits 0 0
+*Spices
+Grains 0 0
+Lentils 0 0
+Wheat 0 0
+Flour 0 0
+Rice 0 0
+Cereal 0 0
+oPersonal_Hygiene
+Shampoo 0 0
+Soap 0 0
+Hand_Sanitizer 0 0
+oHousehold_Cleaning
+Detergent 0 0
+Dish_Soap 0 0
+Washroom_Cleaner 0 0

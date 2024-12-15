@@ -1,0 +1,6 @@
+﻿  Inventory.cpp
+  PCatalog.cpp
+  Source.cpp
+C:\Users\LENOVO\Desktop\Store\Manager.h(134,8): warning C4101: 'c': unreferenced local variable
+  Generating Code...
+  Store.vcxproj -> C:\Users\LENOVO\Desktop\Store\x64\Debug\Store.exe
